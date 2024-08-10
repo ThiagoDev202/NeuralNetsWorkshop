@@ -1,5 +1,4 @@
 # Neural Machine Learning Algorithms
-#### IA Algorithms: Adaline | Perceptron | MLP
 
 Spiral Dataset Classification using PyTorch
 
