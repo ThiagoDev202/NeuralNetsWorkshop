@@ -1,7 +1,5 @@
 # Neural Machine Learning Algorithms
 
-Spiral Dataset Classification using PyTorch
-
 This repository contains multiple Python scripts to perform binary classification using various neural network models implemented with PyTorch. The models include a Multi-Layer Perceptron (MLP), an Adaline model, and a Simple Perceptron. The code demonstrates data preprocessing, model training, evaluation, and performance metric calculation.
 
 Overview
